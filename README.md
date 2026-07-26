@@ -7,7 +7,7 @@
 Claude Code에서 아래 명령으로 마켓플레이스를 추가합니다.
 
 ```
-/plugin marketplace add kbo71928277/claude-evaluator-tools
+/plugin marketplace add Kkangi7856/claude-evaluator-tools
 ```
 
 그런 다음 원하는 플러그인을 설치합니다.
