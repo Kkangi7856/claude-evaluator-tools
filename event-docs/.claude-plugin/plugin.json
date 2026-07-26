@@ -1,0 +1,10 @@
+{
+  "name": "event-docs",
+  "version": "1.1.0",
+  "description": "행사 개요(웹주소 또는 파일)를 입력하면 공공기관 표준 「행사 개최 계획(안)」과 워크숍 공문 서식의 「공문(개최 계획 보고 + 참석 요청)」을 한글(.hwp)로 자동 생성합니다.",
+  "author": {
+    "name": "kbo71928277",
+    "email": "kbo71928277@gmail.com"
+  },
+  "license": "MIT"
+}

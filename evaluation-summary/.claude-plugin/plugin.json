@@ -1,0 +1,10 @@
+{
+  "name": "evaluation-summary",
+  "version": "1.0.0",
+  "description": "평가위원 답변 엑셀(평가위원명·우수한 점·수정 및 보완할 점·기타 의견)을 읽어 항목별로 중복 없이 평가의견을 정리하고 「평가의견 종합」을 한글(.hwp)로 자동 생성합니다.",
+  "author": {
+    "name": "kbo71928277",
+    "email": "kbo71928277@gmail.com"
+  },
+  "license": "MIT"
+}

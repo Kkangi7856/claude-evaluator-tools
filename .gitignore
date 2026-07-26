@@ -1,0 +1,15 @@
+# ── 화이트리스트 방식 ───────────────────────────────
+# 개인정보/업무 데이터 보호를 위해 기본적으로 모든 것을 제외하고,
+# 플러그인 마켓플레이스 구성 파일만 명시적으로 포함합니다.
+
+# 1) 루트의 모든 항목 제외 (실제 명단 xlsx, 공문·평가의견 hwp/pdf 등)
+/*
+
+# 2) 마켓플레이스 배포에 필요한 항목만 다시 포함
+!.gitignore
+!README.md
+!LICENSE
+!.claude-plugin/
+!evaluator-roster/
+!event-docs/
+!evaluation-summary/
