@@ -1,0 +1,10 @@
+{
+  "name": "qualitative-outcome",
+  "version": "1.0.0",
+  "description": "보도자료(.hwp/.hwpx)를 읽어 「정성성과 양식」의 항목(성과명·관련 사업(과제)·추진배경·추진내용·추진성과·비고)대로 성과를 정리하고 한글(.hwpx/.hwp)로 자동 생성합니다. 보도자료에 없는 정보는 지어내지 않고 공란으로 둡니다.",
+  "author": {
+    "name": "kbo71928277",
+    "email": "kbo71928277@gmail.com"
+  },
+  "license": "MIT"
+}

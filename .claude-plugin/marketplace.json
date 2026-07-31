@@ -32,6 +32,15 @@
       "author": {
         "name": "kbo71928277"
       }
+    },
+    {
+      "name": "qualitative-outcome",
+      "source": "./qualitative-outcome",
+      "description": "보도자료(.hwp/.hwpx)를 「정성성과 양식」 항목(성과명·관련 사업(과제)·추진배경·추진내용·추진성과·비고)대로 정리해 한글(.hwpx)로 생성. 보도자료에 없는 정보는 공란 유지",
+      "version": "1.0.0",
+      "author": {
+        "name": "kbo71928277"
+      }
     }
   ]
 }
